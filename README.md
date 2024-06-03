@@ -88,10 +88,6 @@ TextEditingController txtName = TextEditingController();
 TextEditingController txtCategory = TextEditingController();
 TextEditingController txtPrice = TextEditingController();
 
-var c1 = txtName.clear();
-var c2 = txtCategory.clear();
-var c3 = txtPrice.clear();
-
 class InvoiceGenerator extends StatefulWidget {
   const InvoiceGenerator({super.key});
 
