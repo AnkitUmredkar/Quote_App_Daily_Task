@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../DialogueBox/types_of_alert_dialogue_box.dart';
+import '../Show_Quotes/quotes.dart';
 import '../SizedBox.expand/SizedBox.dart';
 
 class AppRoutes {
@@ -8,6 +9,9 @@ class AppRoutes {
     // '/' : (context) => const TypesOfAlertDialogueBox(),
 
     //todo ---> Example of SizedBox.expand
-    '/': (context) => const sizedBox(),
+    // '/': (context) => const sizedBox(),
+    //
+    // todo ---> Quotes App
+    '/': (context) => const Quotes(),
   };
 }
