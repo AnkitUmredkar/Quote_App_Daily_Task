@@ -268,6 +268,8 @@ class InvoiceModel {
 
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/be0959f5-a89f-4c57-be74-d16e865e1764"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/4b37966d-987a-4274-ac45-1fab7df8c02f"/>
 <video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/029c65d7-4fe7-440c-b8ab-9ef5c44ff23a"/></video>
 </div>
 
