@@ -22,6 +22,7 @@ class _QuotesState extends State<Quotes> {
 
   @override
   Widget build(BuildContext context) {
+    double width = MediaQuery.of(context).size.width;
     return SafeArea(
       child: Scaffold(
         appBar: AppBar(
@@ -32,13 +33,13 @@ class _QuotesState extends State<Quotes> {
           toolbarHeight: 70,
           centerTitle: true,
           backgroundColor: const Color(0xff01204E),
-          title: const Text(
+          title: Text(
             'Quotes App',
-            style: TextStyle(color: Colors.white, fontSize: 25),
+            style: TextStyle(color: Colors.white, fontSize: width * 0.062),
           ),
         ),
         body: Padding(
-          padding: const EdgeInsets.all(8.0),
+          padding: const EdgeInsets.fromLTRB(8, 12, 8, 8),
           child: SingleChildScrollView(
             physics: const BouncingScrollPhysics(),
             child: Column(
@@ -50,14 +51,15 @@ class _QuotesState extends State<Quotes> {
                     title: Text(
                       '"${quotesModel!.quoteModelList[index].quote!}"',
                       style: TextStyle(
-                          color:
-                              (index % 2 == 0) ? Colors.black : Colors.white),
+                          color: (index % 2 == 0) ? Colors.black : Colors.white,
+                          fontSize: width * 0.045),
                     ),
                     subtitle: Text(
-                      quotesModel!.quoteModelList[index].author!,
+                      '-- ${quotesModel!.quoteModelList[index].author!}',
                       style: TextStyle(
-                          color:
-                              (index % 2 == 0) ? Colors.black : Colors.white),
+                          color: (index % 2 == 0) ? Colors.black : Colors.white,
+                          fontStyle: FontStyle.italic,
+                          fontSize: width * 0.042),
                     ),
                   ),
                 ),
