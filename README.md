@@ -258,18 +258,17 @@ class InvoiceModel {
 }
 ```
 
-<h1 align="center"> 🔶🔸 17.2 Types of Alert Dialogue & SizedBox.expand() 🔸🔶 </h1>
-
 ###
 
 <h1 align="left"> </h1>
 
 ###
 
+<h1 align="center"> 🔶🔸 17.2 Types of Alert Dialogue & SizedBox.expand() 🔸🔶 </h1>
+
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/be0959f5-a89f-4c57-be74-d16e865e1764"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<video height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/029c65d7-4fe7-440c-b8ab-9ef5c44ff23a"/></video>
+<video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/029c65d7-4fe7-440c-b8ab-9ef5c44ff23a"/></video>
 </div>
 
 ###
