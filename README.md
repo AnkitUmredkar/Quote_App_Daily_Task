@@ -264,7 +264,7 @@ class InvoiceModel {
 
 ###
 
-<h1 align="center"> 🔶🔸 17.2 Types of Alert Dialogue & SizedBox.expand() 🔸🔶 </h1>
+<h1 align="center"> 🔶🔸 17.2 Alert Dialogue & SizedBox.expand() 🔸🔶 </h1>
 
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/be0959f5-a89f-4c57-be74-d16e865e1764"/>
