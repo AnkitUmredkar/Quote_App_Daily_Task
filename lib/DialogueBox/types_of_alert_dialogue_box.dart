@@ -46,6 +46,7 @@ class _TypesOfAlertDialogueBoxState extends State<TypesOfAlertDialogueBox> {
       ),
     );
   }
+
   _onCustomAlert(context) {
     showDialog(
         context: context,
