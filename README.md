@@ -286,6 +286,6 @@ class InvoiceModel {
 <h1 align="center"> 🔶🔸 17.3 Random Quotes with Different Colors 🔸🔶 </h1>
 
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/5acf3e4f-3774-4b21-9a25-998c81d9184c"/>
-<video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/624043f1-911f-4702-b2a3-3dce116fd7ee"/></video>
+<img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/59a59d01-7196-4965-ab3e-7a7cd18aabd2"/>
+<video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/414e7e3a-348a-4b3c-bd23-b410c6d2998d"/></video>
 </div>
