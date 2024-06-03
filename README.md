@@ -1,7 +1,8 @@
+
 # What is Factory Constructor ?
 ## First of all what is Constructor :
 
-- Constructor is a block of code which is automatically invoked when class is instanciated. 
+- ```Constructor is a block of code which is automatically invoked when class is instanciated.``` 
 - Constructor is automatically called when an object(instance of class) is created. It is a special member function of the class.
 - It mainly used to assign data in attributes.
 
@@ -11,7 +12,7 @@
 - It cannot return anything(Value).
 
 ### Example
-bash
+```bash
 class DartProgram {
   DartProgram() {
     print("Hello Dart Language..!");
@@ -21,17 +22,17 @@ class DartProgram {
 void main() {
   DartProgram dartProgram = DartProgram();
 }
-
+```
 
 ## Factory Constructor 
 - Factory constructor to convert raw data into objects.
 - Factory constructor return the current class's object.
 - Factory constructor can be created using 'factory' keyword.
-- A factory constructor is convert  raw data into objects and returns an object of the current class. 
+- ```A factory constructor is convert  raw data into objects and returns an object of the current class. ```
 - A constructor that takes a map in its parameters and returns an object is called a factory constructor.
 
 ### Example
-bash
+```bash
 class Student
 {
   late int age,salary;
@@ -72,14 +73,14 @@ void main()
     print("Salary :${store[i].salary}\n");
   }
 }
-
+```
 
 # What is Model Class ?
 
 - The "model class" in Dart generally used to a class that represents a data structure within an application.
 
 ## Example
-bash
+```bash
 import 'package:flutter/material.dart';
 
 GlobalKey<FormState> formkey = GlobalKey();
@@ -258,3 +259,6 @@ class InvoiceModel {
 
   InvoiceModel({this.name, this.category, this.prise});
 }
+```
+
+
