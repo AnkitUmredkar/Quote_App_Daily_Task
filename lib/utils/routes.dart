@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../DialogueBox/types_of_alert_dialogue_box.dart';
 import '../Show_Quotes/quotes.dart';
 import '../SizedBox.expand/SizedBox.dart';
+import '../Toggle View/quotes.dart';
 
 class AppRoutes {
   static Map<String, Widget Function(BuildContext)> routes = {
@@ -12,6 +13,9 @@ class AppRoutes {
     // '/': (context) => const sizedBox(),
     //
     // todo ---> Quotes App
-    '/': (context) => const Quotes(),
+    // '/': (context) => const Quotes(),
+
+    // todo ---> List to Grid And Grid to List App
+    '/': (context) => const ListToGrid(),
   };
 }
