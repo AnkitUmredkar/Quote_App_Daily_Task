@@ -290,6 +290,10 @@ class InvoiceModel {
 <video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/414e7e3a-348a-4b3c-bd23-b410c6d2998d"/></video>
 </div>
 
+<div align = "center">
+<a  href="https://github.com/AnkitUmredkar/Quote_app_daily_task/tree/master/lib/Show_Quotes">-> 📂 Go To Dart File 📂<-</a>
+</div>
+
 ###
 
 <h1 align="left"> </h1>
@@ -302,4 +306,8 @@ class InvoiceModel {
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/7f82cffc-caea-43d7-8e4b-e1b409d0d229"/>
 <video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/5c8f8866-ad90-4383-81a4-1fe576cc2a40"/></video>
+</div>
+
+<div align = "center">
+<a  href="https://github.com/AnkitUmredkar/Quote_app_daily_task/tree/master/lib/Toggle%20View">-> 📂 Go To Dart File 📂<-</a>
 </div>
