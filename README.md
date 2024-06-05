@@ -289,3 +289,17 @@ class InvoiceModel {
 <img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/59a59d01-7196-4965-ab3e-7a7cd18aabd2"/>
 <video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/414e7e3a-348a-4b3c-bd23-b410c6d2998d"/></video>
 </div>
+
+###
+
+<h1 align="left"> </h1>
+
+###
+
+<h1 align="center"> 🔶🔸 17.4 Listview to Gridview Toggle View 🔸🔶 </h1>
+
+
+<div align="center">
+<img height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/7f82cffc-caea-43d7-8e4b-e1b409d0d229"/>
+<video  height="550" src="https://github.com/AnkitUmredkar/Quote_app_daily_task/assets/149374001/5c8f8866-ad90-4383-81a4-1fe576cc2a40"/></video>
+</div>
