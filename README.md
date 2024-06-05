@@ -274,7 +274,7 @@ class InvoiceModel {
 </div>
 
 <div align = "center">
-<a  href="https://github.com/AnkitUmredkar/Quote_app_daily_task/tree/master/lib">-> 📂 Go To Dart File 📂<-</a>
+<a  href="https://github.com/AnkitUmredkar/Quote_app_daily_task/tree/master/lib/DialogueBox">-> 📂 Go To Dart File 📂<-</a>
 </div>
 
 ###
